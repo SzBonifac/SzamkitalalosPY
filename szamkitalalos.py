@@ -13,5 +13,3 @@ while tipp != szam:
     tipp = int(input('Írj be egy számot 1 és 100 között: '))
 
 print(f'Gratulálok, eltaláltad! A szám {szam} volt. ')
-
-#asdasd
